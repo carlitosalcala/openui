@@ -1,0 +1,9 @@
+{
+  "mockpreview": {
+    "mockUri": "/destinations/ES4/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/",
+    "metadataFilePath": "",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  }
+}
